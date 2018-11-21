@@ -46,6 +46,4 @@ private:
 
 private:
 	bool running;
-	//float refreshRate = 0.1f;
-	//float refreshTimer = 0.0f;
 };
